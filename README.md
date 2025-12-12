@@ -59,17 +59,5 @@ Completing required modules while focusing mainly on Web Development.
 
 ---
 
-## 📊 GitHub Stats 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swastik99-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180px" />
-</p>
 
----
-
-## 🔥 Streak Stats 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=swastik99-git&theme=dark" />
-</p>
-
----
 
