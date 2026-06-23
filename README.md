@@ -76,20 +76,6 @@ A location-sharing platform where users can discover and share places.
 
 ---
 
-### 📸 Snapgram
-
-Modern social media application inspired by Instagram.
-
-✨ Features:
-
-* Create & Share Posts
-* Like & Save Posts
-* User Profiles
-* Infinite Scrolling
-* React Query Integration
-
----
-
 ## 💼 Experience
 
 ### 👨‍💻 MERN Stack Intern
@@ -102,13 +88,6 @@ Modern social media application inspired by Instagram.
 
 🔹 Improved database structure and backend logic.
 
----
-
-### 🏢 SAP Intern
-
-🔹 Completing SAP learning modules.
-
-🔹 Exploring enterprise-level software concepts.
 
 ---
 
