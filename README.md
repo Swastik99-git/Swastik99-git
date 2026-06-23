@@ -2,10 +2,6 @@
 
 <h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Next.js & React Native Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Swastik99-git&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -63,19 +59,6 @@
 * Responsive UI
 * Online user status
 * Secure backend APIs
-
----
-
-### 🌍 World Atlas
-
-Interactive country information platform built with React.js and external APIs.
-
-✨ Features:
-
-* Country search
-* Detailed country information
-* Responsive UI
-* API integration
 
 ---
 
