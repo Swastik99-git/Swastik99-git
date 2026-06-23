@@ -1,63 +1,189 @@
-# 👋 Hi, I'm **Swastik Biswal**
-### Full Stack Developer · Next.js & React Native Learner
+# <h1 align="center">Hi 👋, I'm Swastik Biswal</h1>
 
-I focus on writing clean, practical code and building systems that actually work. Always learning, improving, and sharpening fundamentals.
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Next.js & React Native Learner</h3>
 
----
-
-## 🔧 Tech Stack
-**Frontend:** React.js · Next.js · HTML5 · CSS3 · JavaScript  
-**Backend:** Node.js · Express.js  
-**Mobile:** React Native  
-**Databases:** MongoDB · Oracle  
-**Other:** REST APIs · WebSockets · JWT Auth · Git · GitHub
-
----
-
-## 📚 Currently Learning
-- Advanced Node.js (architecture, scaling, patterns)  
-- Next.js (App Router, Server Actions, SSR)  
-- React Native (navigation, APIs, performance)  
-- Machine Learning basics  
-
----
-
-## 💼 Experience
-### **MERN Developer Intern – Parnasoft Technology Pvt. Ltd.**
-- Built MERN applications  
-- Improved API design, authentication flows, and DB structure  
-
-### **SAP Intern (Current)**
-Completing required modules while focusing mainly on Web Development.
-
----
-
-## 🎯 Goals
-- Become job-ready for MERN / Next.js roles  
-- Build strong production-ready projects  
-- Improve JavaScript & DSA fundamentals  
-- Strengthen backend architecture skills  
-
----
-
-## 📫 Connect
-- **LinkedIn:** https://www.linkedin.com/in/swastik-biswal-b691592a6  
-- **GitHub:** https://github.com/Swastik99-git  
-- **Email:** swastikbiswal.work@gmail.com  
-
----
-
-## 🔖 Skills Badges
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Swastik99-git&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
+## 🚀 About Me
 
+🎓 MCA Graduate passionate about building modern web applications.
 
+💻 Skilled in developing full-stack applications using the MERN Stack.
+
+🌱 Currently learning **Next.js, React Native, Advanced Backend Development, and DSA**.
+
+🔥 Love solving real-world problems through code and continuously improving my development skills.
+
+🎯 Aspiring Software Engineer focused on creating scalable and production-ready applications.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 💬 Real-Time Chat Application
+
+🚀 Built using MERN Stack & Socket.IO
+
+✨ Features:
+
+* Real-time messaging
+* Authentication & Authorization
+* Responsive UI
+* Online user status
+* Secure backend APIs
+
+---
+
+### 🌍 World Atlas
+
+Interactive country information platform built with React.js and external APIs.
+
+✨ Features:
+
+* Country search
+* Detailed country information
+* Responsive UI
+* API integration
+
+---
+
+### 📍 Find Your Place
+
+A location-sharing platform where users can discover and share places.
+
+✨ Features:
+
+* User Authentication
+* Google Maps Integration
+* Image Upload
+* CRUD Operations
+* JWT Security
+
+---
+
+### 📸 Snapgram
+
+Modern social media application inspired by Instagram.
+
+✨ Features:
+
+* Create & Share Posts
+* Like & Save Posts
+* User Profiles
+* Infinite Scrolling
+* React Query Integration
+
+---
+
+## 💼 Experience
+
+### 👨‍💻 MERN Stack Intern
+
+**Parnasoft Technology Pvt. Ltd.**
+
+🔹 Developed full-stack applications using MERN Stack.
+
+🔹 Worked on API integration and authentication systems.
+
+🔹 Improved database structure and backend logic.
+
+---
+
+### 🏢 SAP Intern
+
+🔹 Completing SAP learning modules.
+
+🔹 Exploring enterprise-level software concepts.
+
+---
+
+## 📚 Currently Learning
+
+* ⚡ Next.js App Router
+* 📱 React Native
+* 🧠 Data Structures & Algorithms
+* 🔥 Advanced Node.js
+* 🏗️ Backend Architecture & Design Patterns
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Swastik99-git&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik99-git&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik99-git&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Swastik99-git&theme=tokyonight&margin-w=15" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/swastik-biswal-b691592a6" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://github.com/Swastik99-git" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
+
+📧 **Email:** [swastikbiswal.work@gmail.com](mailto:swastikbiswal.work@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+💡 I enjoy building full-stack applications, learning new technologies, and turning ideas into real-world products.
+
+---
+
+<div align="center">
+
+### 🚀 "Code. Learn. Build. Repeat."
+
+</div>
