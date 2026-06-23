@@ -135,14 +135,6 @@ Modern social media application inspired by Instagram.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Swastik99-git&theme=tokyonight&margin-w=15" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
