@@ -94,19 +94,13 @@ A location-sharing platform where users can discover and share places.
 
 ---
 
-## 🌐 Connect With Me
+## 👨‍💻 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/swastik-biswal-b691592a6" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
 
-<a href="https://github.com/Swastik99-git" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-</p>
+- 💼 **LinkedIn:** https://www.linkedin.com/in/swastik-biswal-b691592a6
+- 💻 **GitHub:** https://github.com/Swastik99-git
+- 📧 **Email:** swastikbiswal.work@gmail.com
 
-📧 **Email:** [swastikbiswal.work@gmail.com](mailto:swastikbiswal.work@gmail.com)
 
 ---
 
