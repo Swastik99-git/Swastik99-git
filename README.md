@@ -28,31 +28,36 @@
 
 ## 📂 Featured Projects
 
-### 💬 Real-Time Chat Application
+## 💬 Chatty – Real-Time Chat Application
 
-🚀 Built using MERN Stack & Socket.IO
+🚀 A real-time chat application with secure authentication and instant messaging.
 
-✨ Features:
+### Features
 
-* Real-time messaging
-* Authentication & Authorization
-* Responsive UI
-* Online user status
-* Secure backend APIs
+- Real-time Messaging
+- User Authentication
+- Responsive UI
+- Online User Status
+- Secure Backend APIs
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Socket.IO
 
 ---
 
-### 📍 Find Your Place
+## 🌍 FindYourPlace – Travel Discovery Platform
 
-A location-sharing platform where users can discover and share places.
+A modern travel discovery platform where users can explore places shared by the community and contribute their own locations through a clean and responsive interface.
 
-✨ Features:
+### Features
 
-* User Authentication
-* Google Maps Integration
-* Image Upload
-* CRUD Operations
-* JWT Security
+- User Authentication
+- Add New Places
+- View Shared Places
+- Edit & Delete Places (CRUD)
+- Responsive User Interface
+- PostgreSQL Database
+
+**Tech Stack:** React, Supabase, PostgreSQL, Tailwind CSS
 
 ---
 
