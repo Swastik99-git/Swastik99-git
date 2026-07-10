@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:6a11cb,100:2575fc&height=220&section=header&text=Swastik%20Biswal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4500&pause=1200&color=8A63FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Swastik+%F0%9F%91%8B;Full+Stack+Developer+(MERN);Building+Real-Time+%26+Scalable+Apps;Open+to+Software+Developer+Roles!" alt="Typing SVG"/>
@@ -33,7 +33,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,supabase,tailwind,git,github,postman,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,mysql&theme=dark&perline=11" />
+<br/>
+<img src="https://skillicons.dev/icons?i=supabase,tailwind,git,github,postman,vscode&theme=dark&perline=11" />
+
+
 
 <br/><br/>
 
@@ -205,4 +209,4 @@ Travel discovery platform where users can share and explore locations.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,50:6a11cb,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=fadeIn" width="100%" />
