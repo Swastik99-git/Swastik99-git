@@ -63,7 +63,7 @@
 - ⚡ Core Stack: MongoDB, Express.js, React.js, Node.js, JWT & Socket.IO
 - 🚀 Currently learning **Next.js, React Native & DSA**
 - 🌱 Former Software Developer Intern at **Parnasoft Technology Pvt. Ltd.**
-- 🎯 Open to Software Developer / Full Stack Developer opportunities
+- 🎯 Open to Software Developer / Full Stack Developer opportunities.
 - 📫 Reach me at **swastikbiswal.work@gmail.com**
 
 </td>
